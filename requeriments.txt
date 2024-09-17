@@ -1,0 +1,11 @@
+streamlit
+pandas
+fuzzywuzzy 
+mlxtend.frequent_patterns
+datetime
+re
+plotly.express
+seaborn
+matplotlib.pyplot
+networkx 
+plotly.graph_objs
