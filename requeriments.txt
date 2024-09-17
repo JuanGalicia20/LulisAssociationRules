@@ -1,6 +1,6 @@
 streamlit
 pandas
-fuzzywuzzy 
+fuzzywuzzy[speedup] 
 mlxtend.frequent_patterns
 datetime
 re
