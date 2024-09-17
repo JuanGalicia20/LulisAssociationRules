@@ -93,9 +93,6 @@ if st.session_state["logged_in"]:
                 palabras_sin_repetir.append(palabra)
         # Volver a unir las palabras en una sola cadena
         return ' '.join(palabras_sin_repetir)
-    
-    from pyvis.network import Network
-    import streamlit.components.v1 as components 
 
     
     def draw_network(rules, metric="lift", threshold=1):
