@@ -35,7 +35,7 @@ if "logged_in" not in st.session_state:
 if st.session_state["logged_in"]:
 
     # Mostrar el logo y el título
-    st.image('/static/img/logo.png', width=200)  # Reemplaza 'path_to_your_logo.png' con la ruta a tu archivo de logo
+    st.image('./src/static/img/logo.png', width=200)  # Reemplaza 'path_to_your_logo.png' con la ruta a tu archivo de logo
     st.title('Análisis de Reglas de Asociación para Lulis')
 
     # Cargar el archivo CSV (asegúrate de subir el archivo con Streamlit)
