@@ -1,6 +1,6 @@
 streamlit
 pandas
-mlxtend.frequent_patterns
+mlxtend
 datetime
 re
 plotly.express
