@@ -1,6 +1,5 @@
 streamlit
 pandas
-fuzzywuzzy[speedup] 
 mlxtend.frequent_patterns
 datetime
 re
@@ -9,3 +8,4 @@ seaborn
 matplotlib.pyplot
 networkx 
 plotly.graph_objs
+fuzzywuzzy[speedup] 
