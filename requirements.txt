@@ -2,8 +2,7 @@ streamlit
 pandas
 mlxtend
 datetime
-re
-plotly.express
+plotly
 seaborn
 matplotlib
 networkx 
