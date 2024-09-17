@@ -5,7 +5,7 @@ datetime
 re
 plotly.express
 seaborn
-matplotlib.pyplot
+matplotlib
 networkx 
-plotly.graph_objs
+plotly
 fuzzywuzzy[speedup] 
